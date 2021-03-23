@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801429306003",
+    "project_id": "fir-login-f266d",
+    "storage_bucket": "fir-login-f266d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801429306003:android:6c500deefffcf93238eb66",
+        "android_client_info": {
+          "package_name": "com.omarolmedoferrer.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801429306003-cmomrmg00ienenh0v2pkpftq09kuk085.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgm_pXq5ddnzRdyIVf7fu45bZwSI9BXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801429306003-cmomrmg00ienenh0v2pkpftq09kuk085.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
